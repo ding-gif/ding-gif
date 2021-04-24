@@ -1,1 +1,102 @@
-<mxfile host="app.diagrams.net" modified="2021-04-24T10:06:02.480Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3861.400 QQBrowser/10.7.4313.400" version="14.6.6" etag="eDYs4otluGIpQCCk-7ST" type="github"><diagram id="BA0FSRN7RvwbylnxvSYT">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-04-24T10:18:14.204Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3861.400 QQBrowser/10.7.4313.400" etag="mVAfQg2afiqRabqHYK1J" version="14.6.6" type="github">
+  <diagram id="BA0FSRN7RvwbylnxvSYT" name="第 1 页">
+    <mxGraphModel dx="1038" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="o4rFva6Id2RhsbHoO7th-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o4rFva6Id2RhsbHoO7th-1" target="o4rFva6Id2RhsbHoO7th-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o4rFva6Id2RhsbHoO7th-1" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="50" y="20" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="o4rFva6Id2RhsbHoO7th-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o4rFva6Id2RhsbHoO7th-2" target="o4rFva6Id2RhsbHoO7th-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o4rFva6Id2RhsbHoO7th-2" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="50" y="70" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="o4rFva6Id2RhsbHoO7th-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o4rFva6Id2RhsbHoO7th-6" target="o4rFva6Id2RhsbHoO7th-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o4rFva6Id2RhsbHoO7th-6" value="3" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="50" y="120" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="o4rFva6Id2RhsbHoO7th-10" value="准备木板" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="100" y="25" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="o4rFva6Id2RhsbHoO7th-11" value="切割底部木板" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="90" y="75" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="o4rFva6Id2RhsbHoO7th-12" value="检查底部木板尺寸" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="90" y="120" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="o4rFva6Id2RhsbHoO7th-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o4rFva6Id2RhsbHoO7th-14" target="o4rFva6Id2RhsbHoO7th-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o4rFva6Id2RhsbHoO7th-14" value="4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="50" y="170" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="o4rFva6Id2RhsbHoO7th-17" value="切割围板" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="100" y="170" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="o4rFva6Id2RhsbHoO7th-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o4rFva6Id2RhsbHoO7th-18" target="o4rFva6Id2RhsbHoO7th-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o4rFva6Id2RhsbHoO7th-18" value="5" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="50" y="220" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="o4rFva6Id2RhsbHoO7th-20" value="检查围板尺寸" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="90" y="220" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="o4rFva6Id2RhsbHoO7th-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o4rFva6Id2RhsbHoO7th-21" target="o4rFva6Id2RhsbHoO7th-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o4rFva6Id2RhsbHoO7th-21" value="6" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="50" y="270" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="o4rFva6Id2RhsbHoO7th-24" value="切割盖板" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="100" y="270" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="o4rFva6Id2RhsbHoO7th-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o4rFva6Id2RhsbHoO7th-25" target="o4rFva6Id2RhsbHoO7th-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o4rFva6Id2RhsbHoO7th-25" value="7" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="50" y="320" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="o4rFva6Id2RhsbHoO7th-29" value="检查盖板尺寸" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="85" y="320" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="o4rFva6Id2RhsbHoO7th-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o4rFva6Id2RhsbHoO7th-30" target="o4rFva6Id2RhsbHoO7th-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o4rFva6Id2RhsbHoO7th-30" value="8" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="50" y="370" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="o4rFva6Id2RhsbHoO7th-32" value="切割钢带条" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="90" y="370" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="o4rFva6Id2RhsbHoO7th-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o4rFva6Id2RhsbHoO7th-33" target="o4rFva6Id2RhsbHoO7th-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o4rFva6Id2RhsbHoO7th-33" value="9" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="50" y="420" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="o4rFva6Id2RhsbHoO7th-36" value="检查钢带条尺寸" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="85" y="420" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="o4rFva6Id2RhsbHoO7th-42" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="o4rFva6Id2RhsbHoO7th-37">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="30" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o4rFva6Id2RhsbHoO7th-37" value="10" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="50" y="470" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="o4rFva6Id2RhsbHoO7th-39" value="组接钢带条与木板" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="85" y="470" width="110" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
